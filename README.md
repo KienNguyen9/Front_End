@@ -41,15 +41,15 @@ Mong muốn sau khóa học này có thể xin được intern Front-end
 
 ## 1.2 Lộ trình
 
-Phần 1: Giới thiệu lộ trình định hướng, học HTML, HTML5 (3 buổi)
-Phần 2: Học CSS, CSS3, Project mini (5 buổi)
-Phần 3: Học bootstrap 4 (4 buổi)
-Phần 4: Học git, Github, Project mini 2 (2 buổi)
-Phần 5: Javascript cơ bản và nâng cao, Project mini 3 (9 buổi)
-Phần 6: Packkage Managers, BEM, SASS/SCSS, Project mini 4 (3 buổi)
-Phần 7: ReactJS, Redux, React Router, project mini 5 (10 buổi)
-Phần 8: Ant Design và Ant design charts(5 buổi)
-Phần 9: Project cuối khóa 
+- Phần 1: Giới thiệu lộ trình định hướng, học HTML, HTML5 (3 buổi)
+- Phần 2: Học CSS, CSS3, Project mini (5 buổi)
+- Phần 3: Học bootstrap 4 (4 buổi)
+- Phần 4: Học git, Github, Project mini 2 (2 buổi)
+- Phần 5: Javascript cơ bản và nâng cao, Project mini 3 (9 buổi)
+- Phần 6: Packkage Managers, BEM, SASS/SCSS, Project mini 4 (3 buổi)
+- Phần 7: ReactJS, Redux, React Router, project mini 5 (10 buổi)
+- Phần 8: Ant Design và Ant design charts(5 buổi)
+- Phần 9: Project cuối khóa 
 
 
 
