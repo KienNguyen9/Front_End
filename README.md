@@ -102,6 +102,44 @@ Tìm thông tin liên lạc thì chỉ cần 1 thao tác là sẽ nhận đượ
 #### CODE GIAO DIỆN 
 - Material Icon Theme (Icon cho theme dễ nhìn hơn) - Installed
 
- 
-## 1.6 Học HTML
+## HTML
 
+### 1. Khái niệm 
+
+- HTML là Hyper Text Markup Language: Ngôn ngữ đánh đấu siêu văn bản
+- Không phải ngôn ngữ lập trình
+- HTML có tác dụng `tạo bố cục` & `định dạng` trang web
+
+VD: Tạo bố cục, định đạng, chèn hình ảnh, video, link, 
+
+### Cấu trúc file HTML và ý nghĩa các thẻ
+
+```HTML
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tiêu đề trên tab</title>
+    </head>
+
+    <body>
+        <h1>Tiêu đề chính</h1>
+        <p>Đoạn văn bản</p>
+    </body>
+
+</html>
+```
+ 
+### DEV tool
+
+#### Kiểm tra trang - Inspect 
+
+Elements: HTML code
+Style: CSS của trang web 
+Console: code javascript - debug 
+Network: làm về API
+Application: javascrip,SQL,...
+
+
+### Một số thẻ meta <meta>
+
+1:48
