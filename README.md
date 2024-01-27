@@ -68,10 +68,40 @@ Web 1: Pet shop - 1 trang (Lanning page đơn giản)
 Web 2: Cây xanh shop - Nhiều trang (Trang chủ và trang con: sản phẩm, giỏ hàng, tin tức, liên hệ,...) 
 Web 3: Trang web du lịch - Nhiều trang (Nhiều chi tiết và khó hơn 2 trang trên)
 
-01:00'
+## 1.4 Giới thiệu UI-UX
+
+Đội design sẽ làm 2 công việc này 
+
+### UI là gì?
+
+- UI design (User Interface design): thiết kế giao diện người dùng.
+- Một website đẹp và dễ dùng sẽ khiến người dụng thích thú, tạo thiện cảm và tăng độ tin tưởng
+
+### UX là gì?
+
+- UX design (User experience design): là thiết kế trải nghiệm người dùng
+- UX là các thao tác người dùng trải nghiệm được trên website
+
+Ví dụ: 
+Người dùng muốn mua hàng thì chỉ cần 1 thao tác là có thể hoàn thành việc mua hàng (thật dễ dàng để thanh toán)
+Tìm thông tin liên lạc thì chỉ cần 1 thao tác là sẽ nhận được thông tin để liên lạc (tìm là sẽ thấy ngay)
+
+
+## 1.5 Cài đặt phần mền
+
+### Phần mền: Visual Studio Code
+### Tiện tích mở rộng (Extensions)
+
+- Auto Remane Tag (Tự động đặt lại tên thẻ) 
+- Beautify (Làm đẹp code)
+- Color Highlight (Hiển thị màu sắc theo mã màu)
+- CSS Variables Autocomplete (Gợi ý các biến trong CSS để code nhanh hơn)
+- HTML Snippets (Gợi ý code HTML)
+- Live Server (Khi lưu code thì web tự load lại)
+- Path Intellisense (Gợi ý đường dẫn các file) 
+#### CODE GIAO DIỆN 
+- Material Icon Theme (Icon cho theme dễ nhìn hơn)
+
  
-1.4 Giới thiệu UI-UX
+## 1.6 Học HTML
 
-1.5 Cài đặt phần mền
-
-1.6 Học HTML
