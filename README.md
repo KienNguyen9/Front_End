@@ -92,15 +92,15 @@ Tìm thông tin liên lạc thì chỉ cần 1 thao tác là sẽ nhận đượ
 ### Phần mền: Visual Studio Code
 ### Tiện tích mở rộng (Extensions)
 
-- Auto Remane Tag (Tự động đặt lại tên thẻ) 
-- Beautify (Làm đẹp code)
-- Color Highlight (Hiển thị màu sắc theo mã màu)
-- CSS Variables Autocomplete (Gợi ý các biến trong CSS để code nhanh hơn)
-- HTML Snippets (Gợi ý code HTML)
-- Live Server (Khi lưu code thì web tự load lại)
-- Path Intellisense (Gợi ý đường dẫn các file) 
+- Auto Remane Tag (Tự động đặt lại tên thẻ) - Installed
+- Beautify (Làm đẹp code) - can not install
+- Color Highlight (Hiển thị màu sắc theo mã màu) - Installed
+- CSS Variables Autocomplete (Gợi ý các biến trong CSS để code nhanh hơn) - Installed
+- HTML Snippets (Gợi ý code HTML) - can not install
+- Live Server (Khi lưu code thì web tự load lại) - Installed
+- Path Intellisense (Gợi ý đường dẫn các file) - Installed
 #### CODE GIAO DIỆN 
-- Material Icon Theme (Icon cho theme dễ nhìn hơn)
+- Material Icon Theme (Icon cho theme dễ nhìn hơn) - Installed
 
  
 ## 1.6 Học HTML
