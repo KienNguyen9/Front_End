@@ -142,4 +142,21 @@ Application: javascrip,SQL,...
 
 ### Một số thẻ meta <meta>
 
-1:48
+-
+-
+
+### Tạo comments, elements, Altributes
+
+Tạo comment(ghi chú): theo cú pháp sau
+
+```HTML
+<!-- Nội dung ghi chú- -->
+```
+
+Phím tắt: `Ctrl+/` (windows) hoặc `Cmd+/` (Mac)
+
+### Element 
+
+### Thuộc tính Attribute
+
+2h06
