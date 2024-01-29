@@ -159,4 +159,37 @@ Phím tắt: `Ctrl+/` (windows) hoặc `Cmd+/` (Mac)
 
 ### Thuộc tính Attribute
 
-2h06
+
+### 6.6 Tạo Headings, Paragraphs, Formatting
+
+#### Heading là `tiêu đề` hoặc `phụ đề` được hiển thị
+
+Có 6 thẻ heading: 
+
+- `<h1></h1>` : Thẻ tiêu đề quan trọng nhất, Mỗi trang chỉ có 1 thẻ `h1`. Nếu trang có nhiều thẻ `h1` thì web vẫn chạy nhưng không chuẩn `SEO`
+- `<h2></h2>`
+- ... 
+- `<h6> </h6>`
+
+#### Thẻ paragraphs (đoạn văn)
+
+- Luôn bắt đầu trên 1 dòng mới, thường là 1 khối văn bản
+- Cú pháp: `<p>Nội dung</p>`
+
+#### Một số thẻ liên quan:
+
+`<hr>` Horizontal rules - qui tắc ngang : dùng để ngắt theo chủ đề, và được hiển thị dưới dạng 1 đưởng kẻ ngang (empty tag- thẻ trống)
+`<br>` Break - ngắt : dùng để ngắt dòng 1 đoạn văn bản -  xuống dòng 
+
+### Formatting (định dạng)
+
+- `<b></b>` (bold - in đậm) 
+- `<strong></strong>` văn bản in đậm quan trọng
+- `<i></i>` (italic - in nghiêng)
+- `<em></em>` (emphasized - nhấn mạnh) in nghiêng và quan trọng
+- `<small></small>` chữ nhỏ
+- `<sub></sub>` (subcripted - chỉ số dưới) văn bản có chỉ số dưới (VD: H<sub>2<sub>O)
+- `<sup></sup>` (superscripted - chỉ số trên) văn bản có chỉ số trên (VD: 20<sup>100</sup>)
+- `<ins></ins>` i(nserted - chèn văn bản) được chèn, gạch chân văn bản
+- `<del></del>` (deleted - xóa) văn bản đã xóa  - gạch ngang văn bản
+- `<mark></mark>` (marked - đánh dấu) văn bản được đánh dấu - Highlight màu vàng
