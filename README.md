@@ -214,7 +214,7 @@ Có 6 thẻ heading:
 8. Phân biệt kiểu hiển thị của element: block và inline
 9. Class và id
 
-<h2>Thẻ <a> </h2>
+<h2>Thẻ < a >  < /a ></h2>
 
 Thẻ `<a></a>` (anchor-mỏ neo) là thẻ để khi click vào thẻ đó nó sẽ chuyển hướng đến một trang khác
 Cú pháp: `<a href="url">Text</a>`
@@ -223,5 +223,6 @@ Thuộc tính:
 - `target` : thuộc tính xác định nơi mà tài liệu được mở
 - `_self` : Mặc định, mở tài liệu ở tab hiện tại
 - `_blank` : mở tài liệu ở tab mới
-- `title` : thông tin bổ sung về 1 element  
+- `title` : thông tin bổ sung về 1 element
+
 </details>
