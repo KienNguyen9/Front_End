@@ -196,5 +196,17 @@ Có 6 thẻ heading:
 - `<ins></ins>` i(nserted - chèn văn bản) được chèn, gạch chân văn bản
 - `<del></del>` (deleted - xóa) văn bản đã xóa  - gạch ngang văn bản
 - `<mark></mark>` (marked - đánh dấu) văn bản được đánh dấu - Highlight màu vàng
+</details>
 
+<details>
+    <summary><h1>Bài 2: HTML và HTML5</h1></summry>
+
+<h2>Nội dung:</h2>
+<p>
+    1. Thẻ <a> Chèn link
+    2. Thẻ <img>  chèn ảnh
+    3. Files paths (đường dẫn)
+    4. Thẻ <video> (chèn video)
+    5. Thẻ <audio> (chèn audio)  
+</p>
 </details>
