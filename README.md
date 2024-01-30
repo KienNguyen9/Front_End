@@ -209,6 +209,19 @@ Có 6 thẻ heading:
 3. Files paths (đường dẫn)<br>
 4. Thẻ `<video>` (chèn video)<br>
 5. Thẻ `<audio>` (chèn audio) <br>
+6. Thẻ `<table>` (chèn bảng)
+7. Thẻ `<ul>,<ol>` (chèn danh sách)
+8. Phân biệt kiểu hiển thị của element: block và inline
+9. Class và id
 
+<h2>Thẻ <a> </h2>
 
+Thẻ `<a></a>` (anchor-mỏ neo) là thẻ để khi click vào thẻ đó nó sẽ chuyển hướng đến một trang khác
+Cú pháp: `<a href="url">Text</a>`
+Thuộc tính: 
+- `herf` : (hypertext reference - tài liệu tham khảo dạng siên văn bản): thuộc tính xác định địa chỉ liên kết
+- `target` : thuộc tính xác định nơi mà tài liệu được mở
+- `_self` : Mặc định, mở tài liệu ở tab hiện tại
+- `_blank` : mở tài liệu ở tab mới
+- `title` : thông tin bổ sung về 1 element  
 </details>
