@@ -11,12 +11,9 @@ Nều tảng mà tôi có:
 Mong muốn sau khóa học này có thể xin được intern Front-end 
 
 <details>
-    <sumarry>
+    <sumary>
         <h1> Bài 1: Giới thiệu cơ bản về Front end<h1>
-    </sumarry>
-âbc
-def
-</details> 
+    </sumary>
 
 ## 1.1 Giới thiệu khóa học
 
