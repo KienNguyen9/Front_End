@@ -203,10 +203,10 @@ Có 6 thẻ heading:
 
 <h2>Nội dung:</h2>
 <p>
-    1. Thẻ <a> Chèn link
-    2. Thẻ <img>  chèn ảnh
-    3. Files paths (đường dẫn)
-    4. Thẻ <video> (chèn video)
-    5. Thẻ <audio> (chèn audio)  
+    1. Thẻ <a> Chèn link<br>
+    2. Thẻ <img>  chèn ảnh<br>
+    3. Files paths (đường dẫn)<br>
+    4. Thẻ <video> (chèn video)<br>
+    5. Thẻ <audio> (chèn audio)<br>
 </p>
 </details>
