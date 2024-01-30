@@ -199,7 +199,7 @@ Có 6 thẻ heading:
 </details>
 
 <details>
-    <summary><h1>Bài 2: HTML và HTML5</h1></summry>
+    <summary><h1>Bài 2: HTML và HTML5</h1></summary>
 
 <h2>Nội dung:</h2>
 <p>
@@ -207,6 +207,6 @@ Có 6 thẻ heading:
     2. Thẻ <img>  chèn ảnh<br>
     3. Files paths (đường dẫn)<br>
     4. Thẻ <video> (chèn video)<br>
-    5. Thẻ <audio> (chèn audio)<br>
+    5. Thẻ <audio> (chèn audio) <br>
 </p>
 </details>
