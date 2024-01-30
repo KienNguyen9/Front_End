@@ -221,8 +221,8 @@ Cú pháp: `<a href="url">Text</a>`
 Thuộc tính: 
 - `herf` : (hypertext reference - tài liệu tham khảo dạng siên văn bản): thuộc tính xác định địa chỉ liên kết
 - `target` : thuộc tính xác định nơi mà tài liệu được mở
-- `_self` : Mặc định, mở tài liệu ở tab hiện tại
-- `_blank` : mở tài liệu ở tab mới
+    - `_self` : Mặc định, mở tài liệu ở tab hiện tại
+    - `_blank` : mở tài liệu ở tab mới
 - `title` : thông tin bổ sung về 1 element
 
 </details>
