@@ -198,6 +198,7 @@ Có 6 thẻ heading:
 - `<mark></mark>` (marked - đánh dấu) văn bản được đánh dấu - Highlight màu vàng
 </details>
 
+
 <details>
     <summary><h1>Bài 2: HTML và HTML5</h1></summary>
 
@@ -217,6 +218,7 @@ Có 6 thẻ heading:
 <h2>Thẻ < a >  < /a ></h2>
 
 Thẻ `<a></a>` (anchor-mỏ neo) là thẻ để khi click vào thẻ đó nó sẽ chuyển hướng đến một trang khác
+
 Cú pháp: `<a href="url">Text</a>`
 Thuộc tính: 
 - `herf` : (hypertext reference - tài liệu tham khảo dạng siên văn bản): thuộc tính xác định địa chỉ liên kết
@@ -225,4 +227,9 @@ Thuộc tính:
     - `_blank` : mở tài liệu ở tab mới
 - `title` : thông tin bổ sung về 1 element
 
+
+Đang học đến thẻ video,audio 
+
 </details>
+
+
